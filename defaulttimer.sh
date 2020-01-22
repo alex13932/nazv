@@ -1,6 +1,6 @@
 #!/bin/sh
 cd /tmp/tmpfoldername/
-echo "Start grozni"
+echo "Start"
 while (true) 
 do
  ./4.sh;
